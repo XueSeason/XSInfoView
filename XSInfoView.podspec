@@ -1,6 +1,4 @@
 Pod::Spec.new do |s|
-
-
   s.name         = "XSInfoView"
   s.version      = "0.0.1"
   s.summary      = "A simple and lightweight view show information."
@@ -11,8 +9,10 @@ Pod::Spec.new do |s|
 
   s.authors      = { "XueSeason" => "xueseason@icloud.com" }
   s.source       = { :git => "https://github.com/XueSeason/XSInfoView.git", :tag => s.version }
-  s.requires_arc = true
 
+  s.requires_arc = true
+  s.platform     = :ios, '7.0'
   s.public_header_files = 'XSInfoView/XSInfoView/XSInfoView.h'
-  s.source_files = 'XSInfoView/XSInfoView/'
+  s.source_files = 'XSInfoView/XSInfoView/*.{h,m}'
+  s.frameworks = 'Foundation', 'UIKit'
 end
