@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "XSInfoView"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "A simple and lightweight view show information."
 
   s.homepage     = "https://github.com/XueSeason/XSInfoView"
