@@ -8,7 +8,7 @@ A simple and lightweight view show information.
 ## How To Get Started
 
 ```
-pod "XSInfoView", "~> 0.0.1"
+pod 'XSInfoView', '~> 1.0.0'
 pod install
 ```
 
