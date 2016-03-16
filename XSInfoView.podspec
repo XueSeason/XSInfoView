@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.public_header_files = 'XSInfoView/XSInfoView/XSInfoView.h'
-  s.source_files = 'XSInfoView/XSInfoView/XSInfoView.h'
+  s.source_files = 'XSInfoView/XSInfoView/'
 end
