@@ -2,6 +2,8 @@
 
 [![CocoaPods](https://img.shields.io/cocoapods/v/XSInfoView.svg)]()
 [![CocoaPods](https://img.shields.io/cocoapods/l/XSInfoView.svg)]()
+[![CocoaPods](https://img.shields.io/cocoapods/p/XSInfoView.svg)]()
+[![CocoaPods](https://img.shields.io/cocoapods/metrics/doc-percent/XSInfoView.svg)]()
 
 A simple and lightweight view show information.
 
