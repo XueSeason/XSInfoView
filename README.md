@@ -1,5 +1,6 @@
 # XSInfoView
 
+[![Travis](https://img.shields.io/travis/XueSeason/XSInfoView.svg)]()
 [![CocoaPods](https://img.shields.io/cocoapods/v/XSInfoView.svg)]()
 [![CocoaPods](https://img.shields.io/cocoapods/l/XSInfoView.svg)]()
 [![CocoaPods](https://img.shields.io/cocoapods/p/XSInfoView.svg)]()
