@@ -311,6 +311,7 @@
     if (!_infoImageView) {
         _infoImageView = [[UIImageView alloc] init];
         _infoImageView.translatesAutoresizingMaskIntoConstraints = NO;
+        _infoLabel.textAlignment = NSTextAlignmentCenter;
     }
     return _infoImageView;
 }
