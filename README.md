@@ -17,13 +17,13 @@ pod install
 
 ## How To Use
 
-1. Easy to show infomation without image.
+Easy to show infomation without image.
 
 ```
 [XSInfoView showInfo:@"Hello World" onView:self.view];
 ```
 
-2. Custom
+Custom
 
 ```
 XSInfoViewStyle *style = [[XSInfoViewStyle alloc] init];
