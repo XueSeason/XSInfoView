@@ -23,7 +23,7 @@ pod install
 [XSInfoView showInfo:@"Hello World" onView:self.view];
 ```
 
-2. If custom more?
+2. Custom
 
 ```
 XSInfoViewStyle *style = [[XSInfoViewStyle alloc] init];
@@ -44,8 +44,7 @@ There are all property to setting:
 
 @property (strong, nonatomic) NSString *info;
 @property (assign, nonatomic) CGFloat fontSize;
-@property (strong, nonatomic) UIColor *textColor
-;
+@property (strong, nonatomic) UIColor *textColor;
 @property (assign, nonatomic) CGFloat maxLabelWidth;
 
 @property (assign, nonatomic) NSInteger durationSeconds;
